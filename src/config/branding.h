@@ -35,7 +35,7 @@ FILE_LICENCE ( GPL2_OR_LATER_OR_UBDL );
  * by "iPXE", then the standard tag line "Open Source Network Boot
  * Firmware" is unlikely to fit neatly onto the screen.
  */
-#define PRODUCT_TAG_LINE "Open Source Network Boot Firmware"
+#define PRODUCT_TAG_LINE "SCD Network Boot System"
 
 /*
  * Error messages
